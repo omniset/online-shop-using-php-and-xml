@@ -3,9 +3,9 @@ header('Content-Type: application/json');
 
 // Koneksi ke database (ganti dengan kredensial database Anda)
 $host = 'localhost';
-$db = 'dosa9773_kelompok5';
-$user = 'dosa9773';
-$pass = 'wzg62paZxZ2eHzVX';
+$db = '';
+$user = '';
+$pass = '';
 
 $conn = new mysqli($host, $user, $pass, $db);
 
