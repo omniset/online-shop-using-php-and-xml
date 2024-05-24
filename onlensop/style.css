@@ -1,0 +1,173 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.form-container, .products-container, .rss-container, .xml-container {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+.products-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin: 20px 0;
+    display: flex;  /* Add flex display for alignment */
+    align-items: center;  /* Center align items vertically */
+}
+
+.product-wrapper {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    flex-grow: 1;  /* Allow product wrapper to grow and take available space */
+}
+
+.product {
+    min-width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.product img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Pusatkan gambar */
+    width: 100%;
+    height: 300px; /* Tentukan tinggi tetap untuk semua gambar */
+    object-fit: contain; /* Menjaga aspek rasio gambar */
+}
+
+.nav-button {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 1000;
+    opacity: 0.8;
+    transition: opacity 0.3s;
+    font-size: 24px;
+    width: 10%;
+}
+
+.nav-button:hover {
+    opacity: 1;
+}
+
+.nav-button.left {
+    margin-right: 10px;  /* Add margin to separate from the container */
+}
+
+.nav-button.right {
+    margin-left: 10px;  /* Add margin to separate from the container */
+}
+
+.price {
+    color: green;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.rss-container, .xml-container {
+    margin-top: 20px;
+}
+
+.rss-item, .xml-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+
+.rss-item:last-child, .xml-item:last-child {
+    border-bottom: none;
+}
+
+.rss-item h3, .xml-item h3 {
+    margin: 0 0 5px;
+    font-size: 1.2em;
+}
+
+.rss-item p, .xml-item p {
+    margin: 5px 0;
+}
+
+.rss-item a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.rss-item a:hover {
+    text-decoration: underline;
+}
+
+/* CSS untuk navbar */
+nav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #111;
+}
