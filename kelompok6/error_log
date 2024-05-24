@@ -1,0 +1,160 @@
+[18-May-2024 17:08:14 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:08:16 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:08:16 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:08:16 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:08:17 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:08:17 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:08:17 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:08:17 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:08:18 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:08:18 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:08:18 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:08:19 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:08:19 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:08:19 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:08:19 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:08:32 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:08:32 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:08:33 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:08:38 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:11:40 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:11:41 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:11:47 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:15:24 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'dosa9773_kelomp...')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:18:02 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'dosa9773_kelomp...')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:18:03 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/index.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/index.php(8): mysqli->__construct('localhost', 'root', '', 'dosa9773_kelomp...')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/index.php on line 8
+[18-May-2024 17:20:29 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/products.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/products.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/products.php on line 8
+[18-May-2024 17:20:30 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/products.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/products.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/products.php on line 8
+[18-May-2024 17:20:31 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dosa9773/public_html/kelompok6/products.php:8
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/products.php(8): mysqli->__construct('localhost', 'root', '', 'onlineshop')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/products.php on line 8
+[20-May-2024 14:44:44 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/dosa9773/public_html/kelompok6/api.php:44
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/api.php(44): mysqli_stmt->bind_param('ssds', 'Ruby', 'sdsd', '23232332')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/api.php on line 44
+[20-May-2024 14:49:36 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/dosa9773/public_html/kelompok6/api.php:44
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/api.php(44): mysqli_stmt->bind_param('ssds', 'asdasd', 'sdsdds', '30000')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/api.php on line 44
+[20-May-2024 14:49:53 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/dosa9773/public_html/kelompok6/api.php:44
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/api.php(44): mysqli_stmt->bind_param('ssds', 'Ruby', 'sdsdsd', '200000')
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/api.php on line 44
+[20-May-2024 14:59:26 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/dosa9773/public_html/kelompok6/api.php:44
+Stack trace:
+#0 /home/dosa9773/public_html/kelompok6/api.php(44): mysqli_stmt->bind_param('ssds', 'Produk Baru', 'Deskripsi Produ...', 100000)
+#1 {main}
+  thrown in /home/dosa9773/public_html/kelompok6/api.php on line 44
