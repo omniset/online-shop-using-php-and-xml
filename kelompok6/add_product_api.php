@@ -2,9 +2,9 @@
 header('Content-Type: application/json');
 
 $host = 'localhost';
-$db = 'dosa9773_kelompok5';
-$user = 'dosa9773';
-$pass = 'wzg62paZxZ2eHzVX';
+$db = '';
+$user = '';
+$pass = '';
 
 // Membuat koneksi
 $conn = new mysqli($host, $user, $pass, $db);
